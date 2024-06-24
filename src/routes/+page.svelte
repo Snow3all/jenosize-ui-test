@@ -28,7 +28,7 @@
 	<div>
 		<h1 class='text-center'>Campaign Management</h1>
 		{#if isEmptyCampaign}
-			<div>
+			<div class="mx-2">
 				<h1>Campaign is empty now</h1>
 			</div>
 		{:else}
