@@ -34,7 +34,6 @@
 				text: `Error code : ${response.code}`
 			});
 		}
-		console.log('🚀 ~ create ~ responsee:', response);
 	};
 </script>
 
